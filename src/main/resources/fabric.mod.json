@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "my_cool_mod"",
 	"version": "${version}",
-	"name": "Example Mod",
+	"name": "Test",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
 		"Me!"
